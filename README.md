@@ -39,11 +39,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/></a>
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/bitbucket.svg" alt="bitbucket" width="40" height="40"/></a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/apache-maven.svg" alt="maven" width="40" height="40"/></a>
-  <a href="https://junit.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/junit-5.svg" alt="junit" width="40" height="40"/></a>
-  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/mockito.svg" alt="mockito" width="40" height="40"/></a>
-  <a href="https://www.testcontainers.org/" target="_blank" rel="noreferrer"><img src="https://www.testcontainers.org/images/logo.svg" alt="testcontainers" width="40" height="40"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-5.svg" alt="jira" width="40" height="40"/></a>
-  <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/confluence.svg" alt="confluence" width="40" height="40"/></a>
 </p>
 
