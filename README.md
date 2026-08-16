@@ -12,12 +12,6 @@
 **Tools & Platforms:** Git, GitLab, Bitbucket, Jira, Confluence, Maven, Docker, JUnit, Mockito, Testcontainers
 
 ---
-
-### 📌 Projects
-- **ROSS System (Roshydromet)** – meteorological data collection and processing system.  
-- **CSFD (AviaMetTelecom, Roshydromet)** – real-time data monitoring and processing system.
-
----
 <a>My LeetCode</a>
   <a href="https://www.leetcode.com/tsj61" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 
